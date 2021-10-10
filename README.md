@@ -1,2 +1,2 @@
 # ComputerSoftwareSolutionsLTD
-Web page of my conpany
+Web page of the conpany
