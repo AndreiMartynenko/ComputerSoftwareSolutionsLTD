@@ -1,2 +1,2 @@
 # ComputerSoftwareSolutionsLTD
-Web page of the conpany
+Web page of the company
